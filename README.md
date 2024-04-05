@@ -11,17 +11,17 @@
 
 - 👯 I’m looking to collaborate on [YBS Kariyer](https://ybskariyer.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dilekaltun](https://github.com/dilekaltun)
+- 👨‍💻 All of my projects are available at [dilekaltun](dilekaltun)
 
 - 📫 How to reach me **altyndilek@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dilek-altunofficial/](https://www.linkedin.com/in/dilek-altunofficial/)
+- 📄 Know about my experiences [dilek-altunofficial/](dilek-altunofficial/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dilekaltun35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilekaltun35" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dilek-altunofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilek-altunofficial/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/dilekaltunofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/dilekaltunofficial" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dilek-altunofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilek-altunofficial/" height="30" width="40" /></a>
+<a href="https://dribbble.com/dilekaltunofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dilekaltunofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
