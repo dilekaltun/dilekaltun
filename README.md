@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [dilekaltun](dilekaltun)
 
-- 📫 How to reach me **altyndilek@gmail.com**
+- 📫 How to reach me **info@dilekaltun.com**
 
 - 📄 Know about my experiences [dilek-altunofficial/](dilek-altunofficial/)
 
