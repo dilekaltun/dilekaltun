@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilek</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilekaltun" alt="dilekaltun" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dilekaltun35" target="blank"><img src="https://img.shields.io/twitter/follow/dilekaltun35?logo=twitter&style=for-the-badge" alt="dilekaltun35" /></a> </p>
-
 - 🔭 I’m currently working on **Frontend Developer**
 
 - 🌱 I’m currently learning **Vue.js, React.js and Next.js**
